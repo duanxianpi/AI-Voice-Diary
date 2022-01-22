@@ -1,0 +1,3 @@
+{
+    "files": ["ui/dialog.ui","ui/mainwindow.ui","record.py","newDialog.py","mainwindow.ui","icons.qrc","mainwindow.py","dataModel.py","AI.py"]
+}

@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/">
+        <file>icons/add_black_24dp.svg</file>
+        <file>icons/create_new_folder_black_24dp.svg</file>
+        <file>icons/note_add_black_24dp.svg</file>
+        <file>icons/folder_black_24dp.svg</file>
+        <file>icons/post_add_black_24dp.svg</file>
+        <file>icons/description_black_24dp.svg</file>
+        <file>icons/Cowboy hat face.svg</file>
+        <file>icons/Dissapointed face.svg</file>
+        <file>icons/Neutral face.svg</file>
+        <file>icons/book.png</file>
+        <file>icons/writable_book.png</file>
+        <file>icons/written_book.png</file>
+        <file>fonts/Inter-Black.otf</file>
+        <file>fonts/Inter-BlackItalic.otf</file>
+        <file>fonts/Inter-Bold.otf</file>
+        <file>fonts/Inter-BoldItalic.otf</file>
+        <file>fonts/Inter-ExtraBold.otf</file>
+        <file>fonts/Inter-ExtraBoldItalic.otf</file>
+        <file>fonts/Inter-ExtraLight.otf</file>
+        <file>fonts/Inter-ExtraLightItalic.otf</file>
+        <file>fonts/Inter-Italic.otf</file>
+        <file>fonts/Inter-Light.otf</file>
+        <file>fonts/Inter-LightItalic.otf</file>
+        <file>fonts/Inter-Medium.otf</file>
+        <file>fonts/Inter-MediumItalic.otf</file>
+        <file>fonts/Inter-Regular.otf</file>
+        <file>fonts/Inter-SemiBold.otf</file>
+        <file>fonts/Inter-SemiBoldItalic.otf</file>
+        <file>fonts/Inter-Thin.otf</file>
+        <file>fonts/Inter-ThinItalic.otf</file>
+        <file>fonts/Inter-V.ttf</file>
+        <file>icons/mic_black_48dp.svg</file>
+        <file>icons/stop_black_48dp.svg</file>
+        <file>icons/mic_gray_48dp.svg</file>
+        <file>icons/play_circle_filled_black_48dp.svg</file>
+    </qresource>
+</RCC>
