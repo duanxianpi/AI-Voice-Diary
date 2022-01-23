@@ -7,6 +7,12 @@ pip install -r requirements.txt
 
 ### PyAudio
 On Windows PyAudio may failed to install please check [here](https://stackoverflow.com/questions/52283840/i-cant-install-pyaudio-on-windows-how-to-solve-error-microsoft-visual-c-14)
+
+## Usage
+```bash
+python mainwindow.py
+```
+
 ## Inspiration
 At the beginning of a new year, I always want to look back at the past year. However, each time I can't find much of a record of the past year. Even though I have a diary but I don't actually write down a few serious diary entries during the year. 
 
