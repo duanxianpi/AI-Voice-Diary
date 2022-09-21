@@ -21,9 +21,6 @@ I think the reason for this is that I think journaling is a time-consuming and l
 ## What it does
 Unlike other traditional diary software, AI Voice Diary uses voice recording instead of writing or typing, which is more convenient and easiler to use. It is always easier to speak than to write. 
 
-### Selecting you mood
-![image.png](https://s2.loli.net/2022/01/23/FROPn2LVtqySUdp.png)
-
 You can choose you feeling tody. It will help you quickly recall what happened today before you start recording.
 
 ### AI Transcript
