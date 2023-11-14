@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE QtCreatorProject>
-<!-- Written by QtCreator 5.0.3, 2022-01-22T18:03:25. -->
+<!-- Written by QtCreator 5.0.3, 2022-01-23T15:58:35. -->
 <qtcreator>
  <data>
   <variable>EnvironmentId</variable>
@@ -96,7 +96,7 @@
    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">qt.qt6.621.win64_mingw81_kit</value>
    <value type="int" key="ProjectExplorer.Target.ActiveBuildConfiguration">-1</value>
    <value type="int" key="ProjectExplorer.Target.ActiveDeployConfiguration">0</value>
-   <value type="int" key="ProjectExplorer.Target.ActiveRunConfiguration">0</value>
+   <value type="int" key="ProjectExplorer.Target.ActiveRunConfiguration">4</value>
    <value type="int" key="ProjectExplorer.Target.BuildConfigurationCount">0</value>
    <valuemap type="QVariantMap" key="ProjectExplorer.Target.DeployConfiguration.0">
     <valuemap type="QVariantMap" key="ProjectExplorer.BuildConfiguration.BuildStepList.0">
@@ -118,16 +118,16 @@
     <valuelist type="QVariantList" key="CustomOutputParsers"/>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">D:/Project/Qt/AI Voice Dairy/Ai_Voice_Dairy/mainwindow.py2</value>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">PythonEditor.RunConfiguration.D:/Project/Qt/AI Voice Dairy/Ai_Voice_Dairy/mainwindow.py</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">D:/Project/Qt/AI Voice Dairy/Ai_Voice_Dairy/mainwindow.py</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">D:/Project/Qt/AI Voice Diary/Ai_Voice_Diary/dataModel.py</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">PythonEditor.RunConfiguration.D:/Project/Qt/AI Voice Diary/Ai_Voice_Diary/dataModel.py</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">D:/Project/Qt/AI Voice Diary/Ai_Voice_Diary/dataModel.py</value>
     <value type="QString" key="PythonEditor.RunConfiguation.Interpreter">{f7a115e3-f481-4163-84d7-879f83700db7}</value>
-    <value type="QString" key="PythonEditor.RunConfiguation.Script">D:\Project\Qt\AI Voice Dairy\Ai_Voice_Dairy\mainwindow.py</value>
+    <value type="QString" key="PythonEditor.RunConfiguation.Script">D:\Project\Qt\AI Voice Diary\Ai_Voice_Diary\dataModel.py</value>
     <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
     <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
-    <value type="QString" key="RunConfiguration.WorkingDirectory.default">D:/Project/Qt/AI Voice Dairy/Ai_Voice_Dairy</value>
+    <value type="QString" key="RunConfiguration.WorkingDirectory.default">D:/Project/Qt/AI Voice Diary/Ai_Voice_Diary</value>
    </valuemap>
    <valuemap type="QVariantMap" key="ProjectExplorer.Target.RunConfiguration.1">
     <value type="bool" key="Analyzer.Perf.Settings.UseGlobalSettings">true</value>
@@ -136,16 +136,16 @@
     <valuelist type="QVariantList" key="CustomOutputParsers"/>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">D:/Project/Qt/AI Voice Dairy/Ai_Voice_Dairy/dataModel.py</value>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">PythonEditor.RunConfiguration.D:/Project/Qt/AI Voice Dairy/Ai_Voice_Dairy/dataModel.py</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">D:/Project/Qt/AI Voice Dairy/Ai_Voice_Dairy/dataModel.py</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">D:/Project/Qt/AI Voice Diary/Ai_Voice_Diary/record.py</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">PythonEditor.RunConfiguration.D:/Project/Qt/AI Voice Diary/Ai_Voice_Diary/record.py</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">D:/Project/Qt/AI Voice Diary/Ai_Voice_Diary/record.py</value>
     <value type="QString" key="PythonEditor.RunConfiguation.Interpreter">{f7a115e3-f481-4163-84d7-879f83700db7}</value>
-    <value type="QString" key="PythonEditor.RunConfiguation.Script">D:\Project\Qt\AI Voice Dairy\Ai_Voice_Dairy\dataModel.py</value>
+    <value type="QString" key="PythonEditor.RunConfiguation.Script">D:\Project\Qt\AI Voice Diary\Ai_Voice_Diary\record.py</value>
     <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
     <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
-    <value type="QString" key="RunConfiguration.WorkingDirectory.default">D:/Project/Qt/AI Voice Dairy/Ai_Voice_Dairy</value>
+    <value type="QString" key="RunConfiguration.WorkingDirectory.default">D:/Project/Qt/AI Voice Diary/Ai_Voice_Diary</value>
    </valuemap>
    <valuemap type="QVariantMap" key="ProjectExplorer.Target.RunConfiguration.2">
     <value type="bool" key="Analyzer.Perf.Settings.UseGlobalSettings">true</value>
@@ -154,16 +154,16 @@
     <valuelist type="QVariantList" key="CustomOutputParsers"/>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">D:/Project/Qt/AI Voice Dairy/Ai_Voice_Dairy/newDialog.py</value>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">PythonEditor.RunConfiguration.D:/Project/Qt/AI Voice Dairy/Ai_Voice_Dairy/newDialog.py</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">D:/Project/Qt/AI Voice Dairy/Ai_Voice_Dairy/newDialog.py</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">D:/Project/Qt/AI Voice Diary/Ai_Voice_Diary/newDialog.py</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">PythonEditor.RunConfiguration.D:/Project/Qt/AI Voice Diary/Ai_Voice_Diary/newDialog.py</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">D:/Project/Qt/AI Voice Diary/Ai_Voice_Diary/newDialog.py</value>
     <value type="QString" key="PythonEditor.RunConfiguation.Interpreter">{f7a115e3-f481-4163-84d7-879f83700db7}</value>
-    <value type="QString" key="PythonEditor.RunConfiguation.Script">D:\Project\Qt\AI Voice Dairy\Ai_Voice_Dairy\newDialog.py</value>
+    <value type="QString" key="PythonEditor.RunConfiguation.Script">D:\Project\Qt\AI Voice Diary\Ai_Voice_Diary\newDialog.py</value>
     <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
     <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
-    <value type="QString" key="RunConfiguration.WorkingDirectory.default">D:/Project/Qt/AI Voice Dairy/Ai_Voice_Dairy</value>
+    <value type="QString" key="RunConfiguration.WorkingDirectory.default">D:/Project/Qt/AI Voice Diary/Ai_Voice_Diary</value>
    </valuemap>
    <valuemap type="QVariantMap" key="ProjectExplorer.Target.RunConfiguration.3">
     <value type="bool" key="Analyzer.Perf.Settings.UseGlobalSettings">true</value>
@@ -172,15 +172,16 @@
     <valuelist type="QVariantList" key="CustomOutputParsers"/>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">D:/Project/Qt/AI Voice Dairy/Ai_Voice_Dairy/record.py</value>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">PythonEditor.RunConfiguration.D:/Project/Qt/AI Voice Dairy/Ai_Voice_Dairy/record.py</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">D:/Project/Qt/AI Voice Dairy/Ai_Voice_Dairy/record.py</value>
-    <value type="QString" key="PythonEditor.RunConfiguation.Script">D:\Project\Qt\AI Voice Dairy\Ai_Voice_Dairy\record.py</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">D:/Project/Qt/AI Voice Diary/Ai_Voice_Diary/AI.py</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">PythonEditor.RunConfiguration.D:/Project/Qt/AI Voice Diary/Ai_Voice_Diary/AI.py</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">D:/Project/Qt/AI Voice Diary/Ai_Voice_Diary/AI.py</value>
+    <value type="QString" key="PythonEditor.RunConfiguation.Interpreter">{f7a115e3-f481-4163-84d7-879f83700db7}</value>
+    <value type="QString" key="PythonEditor.RunConfiguation.Script">D:\Project\Qt\AI Voice Diary\Ai_Voice_Diary\AI.py</value>
     <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
     <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
-    <value type="QString" key="RunConfiguration.WorkingDirectory.default">D:/Project/Qt/AI Voice Dairy/Ai_Voice_Dairy</value>
+    <value type="QString" key="RunConfiguration.WorkingDirectory.default">D:/Project/Qt/AI Voice Diary/Ai_Voice_Diary</value>
    </valuemap>
    <valuemap type="QVariantMap" key="ProjectExplorer.Target.RunConfiguration.4">
     <value type="bool" key="Analyzer.Perf.Settings.UseGlobalSettings">true</value>
@@ -189,16 +190,16 @@
     <valuelist type="QVariantList" key="CustomOutputParsers"/>
     <value type="int" key="PE.EnvironmentAspect.Base">2</value>
     <valuelist type="QVariantList" key="PE.EnvironmentAspect.Changes"/>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">D:/Project/Qt/AI Voice Dairy/Ai_Voice_Dairy/AI.py</value>
-    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">PythonEditor.RunConfiguration.D:/Project/Qt/AI Voice Dairy/Ai_Voice_Dairy/AI.py</value>
-    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">D:/Project/Qt/AI Voice Dairy/Ai_Voice_Dairy/AI.py</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.DisplayName">D:/Project/Qt/AI Voice Diary/Ai_Voice_Diary/mainwindow.py</value>
+    <value type="QString" key="ProjectExplorer.ProjectConfiguration.Id">PythonEditor.RunConfiguration.D:/Project/Qt/AI Voice Diary/Ai_Voice_Diary/mainwindow.py</value>
+    <value type="QString" key="ProjectExplorer.RunConfiguration.BuildKey">D:/Project/Qt/AI Voice Diary/Ai_Voice_Diary/mainwindow.py</value>
     <value type="QString" key="PythonEditor.RunConfiguation.Interpreter">{f7a115e3-f481-4163-84d7-879f83700db7}</value>
-    <value type="QString" key="PythonEditor.RunConfiguation.Script">D:\Project\Qt\AI Voice Dairy\Ai_Voice_Dairy\AI.py</value>
+    <value type="QString" key="PythonEditor.RunConfiguation.Script">D:\Project\Qt\AI Voice Diary\Ai_Voice_Diary\mainwindow.py</value>
     <value type="bool" key="RunConfiguration.UseCppDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseCppDebuggerAuto">true</value>
     <value type="bool" key="RunConfiguration.UseQmlDebugger">false</value>
     <value type="bool" key="RunConfiguration.UseQmlDebuggerAuto">true</value>
-    <value type="QString" key="RunConfiguration.WorkingDirectory.default">D:/Project/Qt/AI Voice Dairy/Ai_Voice_Dairy</value>
+    <value type="QString" key="RunConfiguration.WorkingDirectory.default">D:/Project/Qt/AI Voice Diary/Ai_Voice_Diary</value>
    </valuemap>
    <value type="int" key="ProjectExplorer.Target.RunConfigurationCount">5</value>
   </valuemap>

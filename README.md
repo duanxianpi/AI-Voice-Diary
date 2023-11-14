@@ -6,13 +6,7 @@ pip install -r requirements.txt
 ```
 
 ### PyAudio
-On Windows PyAudio may failed to install please check [here](https://stackoverflow.com/questions/52283840/i-cant-install-pyaudio-on-windows-how-to-solve-error-microsoft-visual-c-14)
-
-## Usage
-```bash
-python mainwindow.py
-```
-
+On Windows PyAudio may failed to install please check ![here](https://stackoverflow.com/questions/52283840/i-cant-install-pyaudio-on-windows-how-to-solve-error-microsoft-visual-c-14)
 ## Inspiration
 At the beginning of a new year, I always want to look back at the past year. However, each time I can't find much of a record of the past year. Even though I have a diary but I don't actually write down a few serious diary entries during the year. 
 
@@ -20,6 +14,9 @@ I think the reason for this is that I think journaling is a time-consuming and l
 
 ## What it does
 Unlike other traditional diary software, AI Voice Diary uses voice recording instead of writing or typing, which is more convenient and easiler to use. It is always easier to speak than to write. 
+
+### Selecting you mood
+![image.png](https://s2.loli.net/2022/01/23/FROPn2LVtqySUdp.png)
 
 You can choose you feeling tody. It will help you quickly recall what happened today before you start recording.
 

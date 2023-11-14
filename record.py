@@ -1,6 +1,6 @@
 # This Python file uses the following encoding: utf-8
 import pyaudio
-import wave
+import wave, os
 from PySide6.QtCore import QObject, SignalInstance, Signal, Slot
 
 class record:
@@ -18,11 +18,15 @@ class record:
 
     def record_audio(self, wave_out_path):
         try:
+            print(wave_out_path)
+            os.makedirs(os.path.dirname(wave_out_path), exist_ok=True)
+
             self.stream = self.p.open(format=self.FORMAT,
                             channels=self.CHANNELS,
                             rate=self.RATE,
                             input=True,
                             frames_per_buffer=self.CHUNK)
+
             self.wf = wave.open(wave_out_path, 'wb')
             self.wf.setnchannels(self.CHANNELS)
             self.wf.setsampwidth(self.p.get_sample_size(self.FORMAT))

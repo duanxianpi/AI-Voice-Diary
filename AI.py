@@ -7,7 +7,7 @@ from time import sleep
 class AI:
     def __init__(self):
         self.headers = {
-           "authorization": "",
+           "authorization": "", 
            "content-type": "application/json"
         }
         self.transcript_endpoint = "https://api.assemblyai.com/v2/transcript"
